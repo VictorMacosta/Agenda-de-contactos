@@ -18,7 +18,7 @@ Sistema CRUD (Crear, Leer, Actualizar, Eliminar) para gestión de contactos con 
 ## Cómo usar
 # Clona el repositorio
 git clone https://github.com/VictorMacosta/agenda-de-contactos.git
-cd agenda-contactos
+
 
 # Ejecuta el ejemplo
 python ejemplo_uso.py
