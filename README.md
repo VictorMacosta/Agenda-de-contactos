@@ -16,9 +16,8 @@ Sistema CRUD (Crear, Leer, Actualizar, Eliminar) para gestión de contactos con 
 - Estructuras nativas: listas, diccionarios, conjuntos (set)
 
 ## Cómo usar
-```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/agenda-contactos.git
+git clone https://github.com/VictorMacosta/agenda-de-contactos.git
 cd agenda-contactos
 
 # Ejecuta el ejemplo
